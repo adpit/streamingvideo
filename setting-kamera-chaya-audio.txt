@@ -1,0 +1,12 @@
+
+eyeslevel kamera sesuaikan dengan  mata penceramah, kalo penceramah duduk makan ketinggain kamera mengikuti
+
+jika mic ditengah, mic dibuat agak ke samping jangan tutupin penceramah, jadi saat ambil gambar kurang bagus
+
+pasang lampu seterang mungkin baru maen gain sama airis jangan setting dulu di kamera, minimal pake 2 lampu kanan kiri
+
+headrum spektrum jangan sampai kena kepala, master harus posisi tengah mengambil wajah
+
+sony pwx 70 : pake adapter biar 25fps, 1080p
+
+audio gunakan clipon "wirless" w100 sennheiser clipon, ada DB sensitif sesuai narasumber keras atau pelan -21dB
